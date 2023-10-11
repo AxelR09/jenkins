@@ -1,5 +1,5 @@
 #! /bin/bash
 
 echo "script jalando"
-NUMBER=$(($NUMBERONE + $UMBERTWO))
+NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo $NUMBER
